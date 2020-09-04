@@ -1,5 +1,6 @@
 #### for Vscode
 .vscode
+test
 DManagerClient/.DS_STORE
 
 DManagerClient//dist/
